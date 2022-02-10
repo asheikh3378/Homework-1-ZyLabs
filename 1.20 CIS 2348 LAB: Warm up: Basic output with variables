@@ -1,0 +1,8 @@
+num = int(input("Enter integer:\n"))
+print("You entered:", num)
+print(num, "squared is", num ** 2)
+print("And", num, "cubed is", num ** 3, "!!")
+
+num2 = int(input("Enter another integer:\n"))
+print(num, "+", num2, "is", num + num2)
+print(num, "*", num2, "is", num * num2)
